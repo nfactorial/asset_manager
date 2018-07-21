@@ -1,6 +1,6 @@
 {
   "name": "@nfactorial/asset_manager",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Javascript library for managing and loading assets for a project.",
   "main": "index.js",
   "scripts": {
