@@ -34,7 +34,7 @@ export function loadPackage(uri, listener) {
     }
 
     let assetPackage = PACKAGE_MAP.get(uri);
-    if (!assetPackage) {*/9/*//
+    if (!assetPackage) {
         assetPackage = new AssetPackage(uri);
         PACKAGE_MAP.set(uri, assetPackage);
     }
